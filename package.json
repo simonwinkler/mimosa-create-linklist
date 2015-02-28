@@ -1,0 +1,28 @@
+{
+  "name": "mimosa-change-this-name",
+  "version": "0.0.1",
+  "homepage": "http://www.mimosa.io <= OR PUT YOUR GITHUB URL",
+  "author": "YOUR NAME HERE",
+  "description": "DESCRIBE YOUR MODULE",
+  "contributors": [
+    {
+      "name": "YOUR NAME",
+      "email": "YOUR EMAIL"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "YOUR REPO URL"
+  },
+  "keywords": [
+    "mimosa",
+    "mmodule",
+    "ADD MORE KEYWORDS TO HELP PEOPLE FIND YOUR MODULE ON NPM"
+  ],
+  "main": "./src",
+  "dependencies": {},
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
